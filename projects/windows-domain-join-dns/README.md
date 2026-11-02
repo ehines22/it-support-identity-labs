@@ -39,16 +39,16 @@ The screenshots document the initial error and the final working state. They do 
 - Windows troubleshooting and outcome verification
 
 ## Evidence
-Seven original lab screenshots document:
-1. Workstation before domain join
-2. Domain controller connection error
-3. Client IP and DNS configuration
-4. Successful domain membership
-5. Active Directory DNS SRV lookup
-6. Domain logon-server verification
-7. Workstation computer object in Active Directory
 
-Screenshots will be added after reviewing them for information appropriate for public sharing.
+The following screenshots document the domain-join troubleshooting process and verification:
+
+1. [Before Domain Join](screenshots/01-Before-Domain-Join.png)
+2. [Domain Join Error](screenshots/02-Domain-Join-Error.png)
+3. [Client IP and DNS Configuration](screenshots/03-Client-IP-DNS-Configuration.png)
+4. [Successful Domain Membership](screenshots/04-Successful-Domain-Membership.png)
+5. [Active Directory DNS SRV Verification](screenshots/05-AD-DNS-SRV-Verification.png)
+6. [Domain Logon Server Verification](screenshots/06-Domain-Logon-Server-Verification.png)
+7. [Computer Object in Active Directory](screenshots/07-Computer-Object-in-ADUC.png)
 
 ## Key Takeaways
 - Active Directory domain discovery depends on functioning DNS.
