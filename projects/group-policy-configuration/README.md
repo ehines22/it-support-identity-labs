@@ -47,7 +47,12 @@ These checks are recommended follow-up investigation steps, not additional actio
 - Windows policy troubleshooting
 
 ## Evidence
-Three original screenshots document the GPO link, policy refresh, and `gpresult` output. Links will be added after the screenshots are reviewed and uploaded.
+
+The following screenshots document Group Policy configuration, refresh, and troubleshooting:
+
+1. [GPO Linked to Marketing OU](screenshots/01-GPO-Linked-Marketing-OU.png)
+2. [Successful Group Policy Refresh](screenshots/02-GPUpdate-Success.png)
+3. [Group Policy Result Verification](screenshots/03-GPResult-Verification.png)
 
 ## Key Takeaways
 - Linking a GPO does not guarantee it applies to a particular user or computer.
