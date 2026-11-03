@@ -55,7 +55,16 @@ The objective of this investigation was to review historical audit evidence with
 
 ## Evidence
 
-Four screenshots document the audit investigation and current-membership review. Clickable evidence links will be added after preparing the screenshots for public sharing.
+The following screenshots document the Microsoft Entra ID audit investigation:
+
+1. [Entra Audit Log Overview](screenshots/01-Entra-Audit-Log-Overview.png)
+2. [Finance Group Removal Audit](screenshots/02-Finance-Group-Removal-Audit.png)
+3. [HR Group Addition Audit](screenshots/03-HR-Group-Addition-Audit.png)
+4. [Current HR Group Membership](screenshots/04-Current-HR-Group-Membership.png)
+
+### Service Ticket
+
+[View IAM-003 Identity Auditing Service Ticket](IAM-003-Service-Ticket.md)
 
 ## Key Takeaways
 
