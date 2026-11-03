@@ -19,19 +19,19 @@ Each lab includes the scenario, technical steps, verification, and lessons learn
 
 ## Featured Projects
 
-### Windows & Active Directory
+### Windows, Active Directory & Networking
 
 1. [Windows 11 Domain Join & DNS Troubleshooting](projects/windows-domain-join-dns/README.md) — Investigated a failed domain join, reviewed DNS configuration, and verified domain membership.
-2. [Active Directory Account Lockout & Password Policy](projects/active-directory-account-lockout/README.md) — Practiced user account recovery and configured a five-attempt domain lockout policy.
-3. [Group Policy Configuration & Verification](projects/group-policy-configuration/README.md) — Linked a department GPO, refreshed Group Policy, and investigated policy application results.
+2. [Active Directory Account Lockout & Password Policy](projects/active-directory-account-lockout/README.md) — Practiced account recovery and domain lockout policy configuration.
+3. [Group Policy Configuration & Verification](projects/group-policy-configuration/README.md) — Configured a GPO link, refreshed policy, and investigated application results.
+4. [Wi-Fi Connectivity Troubleshooting](projects/wifi-connectivity-troubleshooting/README.md) — Documented network connectivity failure and recovery.
 
-### Upcoming Projects
+### Microsoft Entra ID & Identity Lifecycle
 
-- Wi-Fi Connectivity Troubleshooting
-- Microsoft Entra ID — User Onboarding
-- Microsoft Entra ID — Employee Transfer
-- Microsoft Entra ID — Identity Audit Investigation
-- Microsoft Entra ID — Secure Offboarding
+5. [IAM-001 — User Provisioning & Onboarding](projects/entra-id-user-onboarding/README.md) — Created a fictional employee account and managed security group membership.
+6. [IAM-002 — Employee Transfer & Access Changes](projects/entra-id-employee-transfer/README.md) — Updated employee attributes and changed department security group memberships.
+7. [IAM-003 — Identity Auditing & Access Review](projects/entra-id-identity-auditing/README.md) — Investigated directory audit logs and group membership changes.
+8. [IAM-004 — Employee Offboarding & Account Security](projects/entra-id-employee-offboarding/README.md) — Disabled an account, revoked sessions, and removed obsolete group membership.
 
 ## Certifications & Education
 
