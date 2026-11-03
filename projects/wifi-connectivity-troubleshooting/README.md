@@ -43,7 +43,11 @@ The evidence does not establish the exact configuration change that restored con
 
 ## Evidence
 
-Three original screenshots document the initial network state, connectivity failure, and restored website access. Clickable evidence links will be added after the screenshots are uploaded.
+The following screenshots document the before, broken, and after stages of the Wi-Fi troubleshooting lab:
+
+1. [Before — Working Wi-Fi Connection](screenshots/01-Before-WiFi-Connectivity.png)
+2. [Broken — Network Connectivity Failure](screenshots/02-Broken-WiFi-Connectivity.png)
+3. [After — Website Access Restored](screenshots/03-After-WiFi-Connectivity.png)
 
 ## Key Takeaways
 
