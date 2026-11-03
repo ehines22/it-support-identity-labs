@@ -17,21 +17,21 @@ Each lab includes the scenario, technical steps, verification, and lessons learn
 - **Networking & Troubleshooting:** DNS, DHCP, TCP/IP, network connectivity, Windows authentication, mapped drives, SMB
 - **IT Support:** Ticket documentation, incident investigation, troubleshooting, verification, escalation
 
-## Featured Project Areas
+## Featured Projects
 
-### Windows & Network Troubleshooting
-- Windows 11 Domain Join & DNS Troubleshooting
+### Windows & Active Directory
+
+1. [Windows 11 Domain Join & DNS Troubleshooting](projects/windows-domain-join-dns/README.md) — Investigated a failed domain join, reviewed DNS configuration, and verified domain membership.
+2. [Active Directory Account Lockout & Password Policy](projects/active-directory-account-lockout/README.md) — Practiced user account recovery and configured a five-attempt domain lockout policy.
+3. [Group Policy Configuration & Verification](projects/group-policy-configuration/README.md) — Linked a department GPO, refreshed Group Policy, and investigated policy application results.
+
+### Upcoming Projects
+
 - Wi-Fi Connectivity Troubleshooting
-
-### Active Directory Administration
-- Active Directory Account Lockout & Password Policy
-- Group Policy Configuration & Verification
-
-### Microsoft Entra ID & Identity Lifecycle
-- IAM-001: New Employee Onboarding
-- IAM-002: Employee Transfer & Access Changes
-- IAM-003: Identity Auditing & Access Review
-- IAM-004: Secure Employee Offboarding
+- Microsoft Entra ID — User Onboarding
+- Microsoft Entra ID — Employee Transfer
+- Microsoft Entra ID — Identity Audit Investigation
+- Microsoft Entra ID — Secure Offboarding
 
 ## Certifications & Education
 
