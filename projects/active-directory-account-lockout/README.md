@@ -40,7 +40,15 @@ The lab also includes configuring a domain account lockout threshold of five fai
 - Help desk ticket documentation
 
 ## Evidence
-Original lab screenshots document the account management and Group Policy workflow. Screenshots will be added after a privacy review.
+
+The following screenshots document the Active Directory account lockout and Group Policy workflow:
+
+1. [Sarah Before Investigation](screenshots/01-Sarah-Before-Investigation.png)
+2. [Sarah User Properties](screenshots/02-Sarah-User-Properties.png)
+3. [Unlock Account Option](screenshots/03-Unlock-Account-Option.png)
+4. [Default Domain Policy](screenshots/04-Default-Domain-Policy.png)
+5. [Account Lockout Policy Location](screenshots/05-Account-Lockout-Policy-Location.png)
+6. [Configured Account Lockout Policy](screenshots/06-Configured-Lockout-Policy.png)
 
 ## Key Takeaways
 This lab reinforced the importance of verifying identity, understanding domain security policies, and documenting account recovery actions.
