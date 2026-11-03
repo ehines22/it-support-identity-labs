@@ -72,7 +72,17 @@ The approval request was fictional and used for training purposes.
 
 ## Evidence
 
-Five original screenshots document the employee transfer and group membership workflow. Clickable links will be added after privacy-reviewed screenshots are uploaded.
+The following screenshots document Jordan's simulated transfer from Finance to Human Resources:
+
+1. [Employee Properties Before Transfer](screenshots/01-Before-Employee-Properties.png)
+2. [Finance Group Membership Before Transfer](screenshots/02-Before-Finance-Group-Membership.png)
+3. [Employee Properties After Transfer](screenshots/03-After-Employee-Properties.png)
+4. [HR Security Group Created](screenshots/04-HR-Security-Group-Created.png)
+5. [HR Group Membership Verified](screenshots/05-After-HR-Group-Membership-Verified.png)
+
+### Service Ticket
+
+[View IAM-002 Employee Transfer Service Ticket](IAM-002-Service-Ticket.md)
 
 ## Service Ticket
 
