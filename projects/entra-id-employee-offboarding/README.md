@@ -74,10 +74,18 @@ Retaining a disabled account can support organizational retention and investigat
 
 ## Evidence
 
-Four screenshots document the account status, session revocation, group membership removal, and final verification.
+The following screenshots document the employee offboarding workflow:
 
-Clickable links will be added after preparing and uploading the screenshots.
+1. [Account Status Before Offboarding](screenshots/01-Before-Offboarding-Account-Status.png)
+2. [Session Revocation Confirmation Prompt](screenshots/02-Session-Revocation-Confirmation-Prompt.png)
+3. [HR Group Membership Removed](screenshots/03-HR-Group-Membership-Removed.png)
+4. [Final Disabled Account Status](screenshots/04-Final-Disabled-Account-Status.png)
 
+**Note:** Screenshot #2 captures the session revocation confirmation prompt, not a success notification. Session revocation was completed during the lab but is not independently verified by that screenshot.
+
+### Service Ticket
+
+[View IAM-004 Employee Offboarding Service Ticket](IAM-004-Service-Ticket.md)
 ## Key Takeaways
 
 - Disabling an account and revoking sessions are separate security actions.
