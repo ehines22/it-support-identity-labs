@@ -72,15 +72,18 @@ This reinforced the importance of verifying administrative changes before repeat
 
 ## Evidence
 
-Five screenshots were captured during the lab:
+The following screenshots document the user provisioning and group membership workflow:
 
-1. Employee properties configuration
-2. User creation confirmation
-3. Employee properties verification
-4. Finance security group configuration
-5. Finance group membership verification
+1. [Employee Properties](screenshots/01-Jordan-Employee-Properties.png)
+2. [User Account Created](screenshots/02-Jordan-User-Created.png)
+3. [Employee Properties Verified](screenshots/03-Jordan-Properties-Verified.png)
+4. [Finance Security Group Configuration](screenshots/04-Finance-Security-Group-Configuration.png)
+5. [Finance Group Membership Verified](screenshots/05-Jordan-Finance-Group-Verified.png)
 
-Clickable evidence links will be added after privacy review and screenshot upload.
+### Service Ticket
+
+[View IAM-001 Onboarding Service Ticket](IAM-001-Service-Ticket.md)
+
 
 ## Key Takeaways
 
